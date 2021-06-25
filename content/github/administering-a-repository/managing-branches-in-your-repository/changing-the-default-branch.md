@@ -40,7 +40,7 @@ You can also rename the default branch. For more information, see "[Renaming a b
 
 ## Prerequisites
 
-To change the default branch, your repository must have more than one branch. For more information, see "[Creating and deleting branches within your repository](/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch)."
+To change the default branch, your repository must have more than one branch. For more information, see "[Creating and deleting branches within your repository](v."
 
 ## Changing the default branch
 
